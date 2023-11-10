@@ -1,0 +1,30 @@
+Webserver
+
+Ein Webserver ist die umgangssprachliche Bezeichnung für einen Server, der einen HTTPS-Diesnt (oder HTTP-Dienst) zur Verfügung stellt. Mit diesem Diesnt lassen sich statische oder dynamische Websites an einen Webbrowser übertragen
+
+Zusammenfassung: Webserver: Ein Webserver ist ein Standardserver in Computernetzwerken, der verschiedene Zwecke erfüllt. Er dient zur Bereitstellung von Administrationsoberflächen für Geräte und zur Bereitstellung von firmeninterner Kooperationssoftware. Webserver sind auch Teil des Softwareangebots großer Dienstanbieter und Webhoster im Internet.
+
+Es gibt verschiedene bekannte Webserver, darunter:
+
+Nginx: Ein weit verbreiteter Webserver, der modular aufgebaut ist und weniger Ressourcen im Vergleich zu Apache verbraucht.
+Microsoft Internet Information Services (IIS): Ein in Microsoft Server integrierter Webserver, der verschiedene Protokolle unterstützt, aber Lizenzen erfordert.
+Apache HTTP Server: Ein bekannter, quelloffener Webserver, der durch Module erweitert werden kann und auf vielen Betriebssystemen verfügbar ist.
+Lighttpd: Ein leistungsfähiger Webserver, der auf Unix-Betriebssystemen arbeitet und wenig Ressourcen verbraucht.
+
+Dynamische Webseiten: Webserver können statische oder dynamische Webseiten bereitstellen. Dynamische Webseiten werden aus verschiedenen Datenquellen zusammengestellt, wie Texten, Bildern, Videos und Werbung von verschiedenen Servern und Datenbanken.
+
+HTTPS: Für das Abrufen von Webseiten wird in der Regel das sichere HTTPS-Protokoll (Hypertext Transfer Protocol Secure) verwendet, um die Kommunikation zu verschlüsseln. Das unsichere HTTP wird immer seltener eingesetzt.
+
+Zertifikate und TLS: Zertifikate sind für die sichere Kommunikation im Web wichtig. Die Kommunikation zwischen Webbrowser und Webserver wird durch das Transport Layer Security (TLS)-Protokoll verschlüsselt. Ein Zertifikat wird von einer Zertifizierungsstelle ausgestellt und enthält einen öffentlichen Schlüssel zur Verschlüsselung. Der Browser überprüft die Gültigkeit des Zertifikats anhand eines Stammzertifikats und einer Signatur.
+
+Digitale Signatur: Die digitale Signatur wird verwendet, um die Authentizität und Integrität von Nachrichten sicherzustellen. Der Sender erstellt einen Hash-Wert der Nachricht und verschlüsselt diesen mit seinem privaten Schlüssel. Der Empfänger entschlüsselt die Signatur mit dem öffentlichen Schlüssel des Senders und überprüft den Hash-Wert der Nachricht.
+
+Videokonferenzsysteme und WebRTC: Videokonferenzsysteme haben seit den 2000er-Jahren stark an Bedeutung gewonnen, insbesondere in den 2020er-Jahren aufgrund von Home-Schooling und virtuellen Vereinssitzungen. Ein Webserver ist ein Standardserver, der in Computernetzwerken häufig vorkommt und verschiedene Anwendungen unterstützt. Er dient der Bereitstellung von Administrationsoberflächen, firmeninternen Kooperationssoftware und Webseiten im Internet. Es gibt eine Vielzahl von Softwarelösungen für Webserver, darunter Nginx, Microsoft Internet Information Services, Apache HTTP Server und Lighttpd. Jeder dieser Webserver hat seine eigenen Vor- und Nachteile. Webseiten können statisch oder dynamisch sein und werden aus verschiedenen Quellen zusammengestellt. Webserver verwenden das HTTPS-Protokoll, um die Kommunikation zwischen Webbrowser und Webserver zu verschlüsseln.
+
+Fragen zu Webservern:
+
+Was ist die Hauptfunktion eines Webservers?
+Nennen Sie drei bekannte Webserver und ihre Vor- und Nachteile.
+Wie unterscheiden sich statische und dynamische Webseiten?
+Welches Protokoll wird für die sichere Kommunikation zwischen Webbrowser und Webserver verwendet?
+Wie funktioniert die Validierung eines Zertifikats im Browser? 
